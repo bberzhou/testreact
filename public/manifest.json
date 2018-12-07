@@ -1,6 +1,8 @@
 {
+//  PWA serviceWorker
   "short_name": "React App",
   "name": "Create React App Sample",
+//  这个就相当于桌面应用配置的图标，并且可以定义点击跳转的路径，以及主题颜色等等
   "icons": [
     {
       "src": "favicon.ico",
